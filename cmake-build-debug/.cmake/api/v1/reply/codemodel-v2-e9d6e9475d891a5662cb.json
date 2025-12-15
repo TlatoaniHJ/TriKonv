@@ -15,10 +15,7 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0,
-						1,
-						2,
-						3
+						0
 					]
 				}
 			],
@@ -33,10 +30,7 @@
 					"name" : "TriKonv",
 					"targetIndexes" : 
 					[
-						0,
-						1,
-						2,
-						3
+						0
 					]
 				}
 			],
@@ -44,30 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "QuantumBeaver::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-QuantumBeaver-Debug-12eccf95e1fe3de4d8d6.json",
-					"name" : "QuantumBeaver",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
 					"id" : "TriKonv::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-TriKonv-Debug-db1162e6be98daa6d9ff.json",
+					"jsonFile" : "target-TriKonv-Debug-3bc8726fa33af04a739b.json",
 					"name" : "TriKonv",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "TriKonv2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-TriKonv2-Debug-c3202b72440ffcfdc2eb.json",
-					"name" : "TriKonv2",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "TriKonv3::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-TriKonv3-Debug-0cb8a5d86eaa0d4d8a80.json",
-					"name" : "TriKonv3",
 					"projectIndex" : 0
 				}
 			]
