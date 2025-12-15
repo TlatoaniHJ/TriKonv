@@ -1,0 +1,6 @@
+/Users/Tlatoani/Projects/TriKonv/cmake-build-debug/CMakeFiles/TriKonv.dir
+/Users/Tlatoani/Projects/TriKonv/cmake-build-debug/CMakeFiles/TriKonv2.dir
+/Users/Tlatoani/Projects/TriKonv/cmake-build-debug/CMakeFiles/TriKonv3.dir
+/Users/Tlatoani/Projects/TriKonv/cmake-build-debug/CMakeFiles/QuantumBeaver.dir
+/Users/Tlatoani/Projects/TriKonv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Tlatoani/Projects/TriKonv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
